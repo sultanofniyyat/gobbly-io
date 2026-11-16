@@ -1,0 +1,48 @@
+# Gobbly.io
+
+> Gobbly.io is a free casual game for iPhone and Android where you roll a hungry little ball around colourful maps, eat the goal items before the timer runs out, and grow bigger with every bite. Made by Sultan of Niyyat.
+
+- Google Play: https://play.google.com/store/apps/details?id=com.sultanofniyyat.rollandgobble.game
+- App Store: https://apps.apple.com/app/id6824868785
+
+## Quick facts
+
+- Price: Gobbly.io is free to download and free to play.
+- Ads: There are optional reward videos you can choose to watch for extras such as more time, a heart or coins. From level 4, a short full-screen ad can also appear now and then between levels and when you come back to the game.
+- Purchases: Optional purchases are coin packs, booster bundles, a Gold Season Pass and a one-time Remove Ads. Every level can be beaten without buying anything.
+- Offline: Yes. Every level works without Wi-Fi or mobile data. Ads, purchases and cloud saving need the internet.
+- Opponents: Gobbly.io is a single-player game. There are no other balls in a level and no live opponents. The Weekly Contest and rankings are worked out on your phone, and there is no chat.
+- Round length: about 1 to 3 minutes
+- Age rating: rated 4+ on the App Store; the game is meant for players aged 13 and over
+- Needs: Android 7.0 or newer or iOS 15 or newer
+
+## Questions and answers
+
+- [What is Gobbly.io?](https://sultanofniyyat.github.io/gobbly-io/what-is-it/): Gobbly.io is a free casual game for iPhone and Android where you roll a hungry little ball around colourful maps, eat the goal items before the timer runs out, and grow bigger with every bite. You start each level as a small ball that can only eat little things, and every bite helps you grow until you can eat cakes, chairs and cars. It is free on the App Store and Google Play.
+- [How do you play Gobbly.io?](https://sultanofniyyat.github.io/gobbly-io/how-to-play/): Touch anywhere on the screen and drag: the ball rolls the way you drag. Lift your finger and it stops. Roll into food and things that are small enough and the ball eats them. Eat every item on the goal cards before the timer runs out to win the level.
+- [Is Gobbly.io like Hole.io?](https://sultanofniyyat.github.io/gobbly-io/how-is-it-different-from-hole-io/): It is the same family of game: you swallow things, grow bigger and can then swallow bigger things. The differences are that in Gobbly.io you are a rolling ball, not a hole, and you play single-player levels with a goal list and a timer instead of racing other players to be the biggest.
+- [What can the ball eat, and why can't I eat that yet?](https://sultanofniyyat.github.io/gobbly-io/what-can-the-ball-absorb/): The ball can eat anything whose size is the same as the ball's size or smaller. If something will not go in, the ball is not big enough yet: eat smaller things nearby, grow a size, and come back.
+- [How do you grow faster in Gobbly.io?](https://sultanofniyyat.github.io/gobbly-io/how-to-grow-faster/): Eat as many small things as you can in the first seconds, roll through crowded areas instead of chasing single items, and move up to bigger things as soon as you grow. Keep moving: empty ground wastes time.
+- [How do you beat a hard level in Gobbly.io?](https://sultanofniyyat.github.io/gobbly-io/how-to-beat-a-level/): Read the goal cards first, grow quickly on the small food, and only then go for the big goal items that need a high size. Use boosters on HARD and SUPER HARD levels, and keep away from bombs. Every level can be beaten without buying anything.
+- [What are the most common beginner mistakes?](https://sultanofniyyat.github.io/gobbly-io/beginner-mistakes/): The big ones are going for the big goal items before you are big enough, stopping on single items, going back over cleared ground, and rolling into bombs. Fix those and levels get much easier.
+- [Who should play Gobbly.io?](https://sultanofniyyat.github.io/gobbly-io/who-should-play/): Gobbly.io suits people who want a quick, easy, satisfying game: fans of Hole.io and other eat-and-grow games, people who play in short breaks, and anyone who likes clearing a full map. It is not for players looking for a story, deep strategy or live matches against other people.
+- [Why are games like Gobbly.io so satisfying?](https://sultanofniyyat.github.io/gobbly-io/is-it-satisfying/): Eat-and-grow games give you constant small rewards: every bite makes you visibly bigger, and a crowded map slowly becomes clean. Gobbly.io adds piles of food that pour into the ball and a goal list that ticks down, so there is always a "just a few left" moment.
+- [Is Gobbly.io a relaxing game?](https://sultanofniyyat.github.io/gobbly-io/is-it-good-for-relaxing/): Mostly, yes. The controls are simple, levels are short and there is no one else to fight, so it is easy to switch off and just roll around eating things. The timer adds a little tension, and harder levels ask for more focus.
+- [Is Gobbly.io suitable for kids?](https://sultanofniyyat.github.io/gobbly-io/is-it-ok-for-kids/): The game itself is simple and non-violent: a ball rolls around eating food and toys. It is rated 4+ on the App Store; the game is meant for players aged 13 and over. Parents should know about ads and purchases: There are optional reward videos you can choose to watch for extras such as more time, a heart or coins. From level 4, a short full-screen ad can also appear now and then between levels and when you come back to the game. Optional purchases are coin packs, booster bundles, a Gold Season Pass and a one-time Remove Ads. Every level can be beaten without buying anything.
+- [How long is a level, and is it good for short breaks?](https://sultanofniyyat.github.io/gobbly-io/how-long-is-a-level/): A level of Gobbly.io takes about 1 to 3 minutes. Early levels are short and later levels get longer. That makes it a good fit for short breaks, commutes and waiting rooms.
+- [Is Gobbly.io free?](https://sultanofniyyat.github.io/gobbly-io/is-it-free/): Gobbly.io is free to download and free to play. There are optional reward videos you can choose to watch for extras such as more time, a heart or coins. From level 4, a short full-screen ad can also appear now and then between levels and when you come back to the game. Optional purchases are coin packs, booster bundles, a Gold Season Pass and a one-time Remove Ads. Every level can be beaten without buying anything.
+- [How do you remove ads in Gobbly.io?](https://sultanofniyyat.github.io/gobbly-io/how-to-remove-ads/): Tap REMOVE ADS on the ad break screen. It is a one-time purchase that switches off the ads between levels and when you open the game, for good. Buying anything else in the game switches them off too. Reward videos you choose to watch stay available.
+- [Can you play Gobbly.io offline?](https://sultanofniyyat.github.io/gobbly-io/can-you-play-offline/): Yes. Every level works without Wi-Fi or mobile data. Ads, purchases and cloud saving need the internet.
+- [Is Gobbly.io multiplayer?](https://sultanofniyyat.github.io/gobbly-io/is-it-multiplayer/): No. Gobbly.io is a single-player game. There are no other balls in a level and no live opponents. The Weekly Contest and rankings are worked out on your phone, and there is no chat.
+- [Will Gobbly.io run on my phone?](https://sultanofniyyat.github.io/gobbly-io/will-it-run-on-my-phone/): Gobbly.io runs on iPhone with iOS 15 or newer and on phones with Android 7.0 or newer. The download is about 90 MB. If the store shows the game for your phone, your phone is supported.
+- [Will I lose my progress in Gobbly.io?](https://sultanofniyyat.github.io/gobbly-io/saving-progress/): Your progress is saved on your phone automatically. On Android it is also saved in the cloud with Google Play Games, so it comes back on a new phone signed in to the same Google account. On iPhone there is no cloud save yet, so deleting the app deletes your progress. Remove Ads comes back on any phone with Restore Purchases.
+- [What is an io game?](https://sultanofniyyat.github.io/gobbly-io/what-is-an-io-game/): An io game is a simple, fast arcade game where many players share one arena, usually trying to grow bigger or survive longest, with very short rounds and one-touch controls. The name comes from Agar.io (2015), a browser game that used the .io web address ending; later games copied the name and the style.
+- [What are the best games where you eat things and grow?](https://sultanofniyyat.github.io/gobbly-io/games-like-it/): The best-known eat-and-grow games are Katamari Damacy (roll a sticky ball that grows), Hole.io (a hole that swallows a city), Donut County (a story game about a growing hole) and Agar.io (cells that eat to grow). Gobbly.io mixes the rolling ball idea with short timed levels and a goal list.
+
+## Other pages
+
+- [Press kit](https://sultanofniyyat.github.io/gobbly-io/press/)
+- [Support](https://sultanofniyyat.github.io/gobbly-io/support/)
+- [Privacy policy (Android)](https://sultanofniyyat.github.io/gobbly-privacy/)
+- [Privacy policy (iPhone)](https://sultanofniyyat.github.io/gobbly-ios-pages/)
+- [All answers as plain text](https://sultanofniyyat.github.io/gobbly-io/llms-full.txt)

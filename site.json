@@ -1,0 +1,40 @@
+{
+  "_README": "Every fact the website states about Gobbly.io lives here. Pages use {{TOKENS}} from this file. When the game changes (ads, prices, cloud save, new features), change the sentence here, run python3 build.py, commit and push.",
+
+  "GAME_NAME": "Gobbly.io",
+  "STUDIO": "Sultan of Niyyat",
+  "SITE_URL": "https://sultanofniyyat.github.io/gobbly-io",
+  "SUPPORT_EMAIL": "sultanofniyyat@gmail.com",
+
+  "PLAY_URL": "https://play.google.com/store/apps/details?id=com.sultanofniyyat.rollandgobble.game",
+  "APPSTORE_URL": "https://apps.apple.com/app/id6824868785",
+  "YOUTUBE_ID": "",
+
+  "PRIVACY_ANDROID_URL": "https://sultanofniyyat.github.io/gobbly-privacy/",
+  "PRIVACY_IOS_URL": "https://sultanofniyyat.github.io/gobbly-ios-pages/",
+
+  "TAGLINE": "Roll, gobble and grow! Eat everything on the list before the clock runs out.",
+  "ONE_LINE": "a free casual game for iPhone and Android where you roll a hungry little ball around colourful maps, eat the goal items before the timer runs out, and grow bigger with every bite",
+
+  "CONTROLS_SENTENCE": "Touch anywhere on the screen and drag: the ball rolls the way you drag. Lift your finger and it stops.",
+  "ROUND_LENGTH": "about 1 to 3 minutes",
+  "MODES_SENTENCE": "The game is made of levels. Each level shows a few goal cards at the top, such as 120 cookies, 30 donuts and 4 burgers. Eat every goal item before the timer reaches zero and you win the level. There are hundreds of levels, with HARD and SUPER HARD levels along the way.",
+  "SIZES_SENTENCE": "The ball starts every level at Size 1. Everything you eat fills the ring around it, and when the ring is full the ball grows to the next size and can eat bigger things.",
+  "BOMBS_SENTENCE": "Some maps have bombs. If the ball eats a bomb, the level ends, unless a Shield is protecting you. You can then pay coins to carry on, or give up.",
+  "HEARTS_SENTENCE": "You have 5 hearts. Losing a level costs one heart, and one heart comes back every 30 minutes. You can also refill them with coins, or watch a short video for one heart.",
+  "BOOSTERS_SENTENCE": "Boosters help when a level is tight: Bigger Ball, Magnet, Shield, Compass, Freeze, Rainbow Potion and Clock. You earn them as rewards and can buy them with coins.",
+  "OPPONENTS_SENTENCE": "Gobbly.io is a single-player game. There are no other balls in a level and no live opponents. The Weekly Contest and rankings are worked out on your phone, and there is no chat.",
+  "PRICE_SENTENCE": "Gobbly.io is free to download and free to play.",
+  "ADS_SENTENCE": "There are optional reward videos you can choose to watch for extras such as more time, a heart or coins. From level 4, a short full-screen ad can also appear now and then between levels and when you come back to the game.",
+  "IAP_SENTENCE": "Optional purchases are coin packs, booster bundles, a Gold Season Pass and a one-time Remove Ads. Every level can be beaten without buying anything.",
+  "REMOVE_ADS_SENTENCE": "Tap REMOVE ADS on the ad break screen. It is a one-time purchase that switches off the ads between levels and when you open the game, for good. Buying anything else in the game switches them off too. Reward videos you choose to watch stay available.",
+  "OFFLINE_SENTENCE": "Yes. Every level works without Wi-Fi or mobile data. Ads, purchases and cloud saving need the internet.",
+  "SAVE_SENTENCE": "Your progress is saved on your phone automatically. On Android it is also saved in the cloud with Google Play Games, so it comes back on a new phone signed in to the same Google account. On iPhone there is no cloud save yet, so deleting the app deletes your progress. Remove Ads comes back on any phone with Restore Purchases.",
+  "UNLOCKS_SENTENCE": "Winning levels earns coins and stars. On top of the levels there are daily gifts, a prize road, win-streak gifts, the Super Star power, Critter Hunts, a Weekly Contest, a monthly Season Pass, a card album and a collection book of everything you have eaten.",
+  "AGE_RATING": "rated 4+ on the App Store; the game is meant for players aged 13 and over",
+  "DATA_SENTENCE": "The game does not ask for an account, your name, your email, your contacts or your location. Two analytics services (GameAnalytics and Google Analytics for Firebase) and one ad service (Google AdMob) receive some device and game information, as the privacy policy explains.",
+  "MIN_ANDROID": "Android 7.0 or newer",
+  "MIN_IOS": "iOS 15 or newer",
+  "DOWNLOAD_SIZE": "about 90 MB",
+  "LANGUAGES": "English"
+}
