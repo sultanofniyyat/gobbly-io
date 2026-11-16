@@ -34,6 +34,7 @@ GROUPS = [
     ("fit", "Is it right for you?"),
     ("tech", "Phones, money and progress"),
     ("genre", "About the genre"),
+    ("similar", "Looking for games like this?"),
 ]
 
 
