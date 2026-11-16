@@ -258,7 +258,7 @@ def render(site, p, pages_by_slug, questions, has_icon, screens):
 {og_img}
 <meta name="twitter:card" content="summary">
 {head_icon}
-<link rel="stylesheet" href="{prefix}style.css">
+<link rel="stylesheet" href="{prefix}style.css?v={TODAY}b">
 {''.join(jsonld(s) for s in schemas)}
 </head>
 <body>
