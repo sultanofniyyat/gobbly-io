@@ -85,7 +85,11 @@ li { margin: 4px 0; }
 }
 .related h2 { margin-top: 0; font-size: 19px; }
 .cta p { margin-top: 0; }
-.stores { display: flex; flex-wrap: wrap; gap: 10px; margin: 12px 0 4px; }
+.stores { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 12px 0 4px; }
+.badge { display: inline-flex; line-height: 0; }
+.badge-ios img { height: 50px; width: auto; }
+.badge-play { margin: -12px -12px; }
+.badge-play img { height: 74px; width: auto; }
 .btn {
   display: inline-block;
   padding: 11px 18px;

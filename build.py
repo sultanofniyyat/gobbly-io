@@ -114,9 +114,14 @@ def page_url(site, p):
 
 
 def store_buttons(site, prefix):
-    out = [f'<a class="btn btn-play" href="{html.escape(site["PLAY_URL"])}" rel="noopener">Get it on Google Play</a>']
+    out = []
     if site.get("APPSTORE_URL"):
-        out.append(f'<a class="btn btn-ios" href="{html.escape(site["APPSTORE_URL"])}" rel="noopener">Download on the App Store</a>')
+        out.append(f'<a class="badge badge-ios" href="{html.escape(site["APPSTORE_URL"])}" rel="noopener">'
+                   '<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" '
+                   'alt="Download on the App Store" width="150" height="50"></a>')
+    out.append(f'<a class="badge badge-play" href="{html.escape(site["PLAY_URL"])}" rel="noopener">'
+               '<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" '
+               'alt="Get it on Google Play" width="194" height="75"></a>')
     return '<div class="stores">' + "".join(out) + "</div>"
 
 
