@@ -137,7 +137,7 @@ def game_schema(site, has_icon):
         "operatingSystem": "Android" + (", iOS" if site.get("APPSTORE_URL") else ""),
         "author": {"@type": "Organization", "name": site["STUDIO"]},
         "publisher": {"@type": "Organization", "name": site["STUDIO"]},
-        "sameAs": [u for u in [site["PLAY_URL"], site.get("APPSTORE_URL")] if u],
+        "sameAs": [u for u in [site["PLAY_URL"], site.get("APPSTORE_URL")] + site.get("SOCIAL", []) if u],
         "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
         "inLanguage": site["LANGUAGES"],
         "dateModified": TODAY,
@@ -274,6 +274,7 @@ def render(site, p, pages_by_slug, questions, has_icon, screens):
 <footer class="foot"><div class="wrap">
 <p>© {site['YEAR']} {html.escape(site['STUDIO'])}. {html.escape(site['GAME_NAME'])} is an independent game.
 Other game names mentioned on this site belong to their owners; we are not connected to them.</p>
+{('<p>Follow us: ' + ' · '.join(f'<a href="{html.escape(u)}" rel="me noopener">{html.escape(n)}</a>' for n, u in site.get("SOCIAL_NAMES", [])) + '</p>') if site.get("SOCIAL_NAMES") else ''}
 <p><a href="{prefix}privacy/">Privacy policy</a> · <a href="{prefix}support/">Support</a> · <a href="{prefix}press/">Press kit</a> · <a href="mailto:{site['SUPPORT_EMAIL']}">{site['SUPPORT_EMAIL']}</a></p>
 </div></footer>
 </body>

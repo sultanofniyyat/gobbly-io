@@ -10,6 +10,9 @@
   "APPSTORE_URL": "https://apps.apple.com/app/id6824868785",
   "YOUTUBE_ID": "",
 
+  "SOCIAL": ["https://www.instagram.com/gobbly.io/"],
+  "SOCIAL_NAMES": [["Instagram", "https://www.instagram.com/gobbly.io/"]],
+
   "PRIVACY_ANDROID_URL": "https://sultanofniyyat.github.io/gobbly-privacy/",
   "PRIVACY_IOS_URL": "https://sultanofniyyat.github.io/gobbly-ios-pages/",
 
